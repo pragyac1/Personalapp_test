@@ -1,0 +1,202 @@
+  @media screen and (max-width: 45em) { .ip-main h2 { font-size: 2.25em; font-size: 10vw; } .box { width:
+    100%; } } @media only screen and (min-width: 1086px) and (max-width: 4000px) { .back {
+
+      
+        display: none;
+    
+    }.header_top {    display: none; }.dashboard{display: block;}.metro{display:none; }.calendar {top:0px;}}
+    @media only screen and (min-width: 0px) and (max-width: 1086px){.date{display:none;}
+        .back {
+
+      
+        display: block;
+    
+    }
+        
+        .homepage {z-index:999;
+            min-height:auto;}.dashboard{display: none;}.text h2 {
+
+     
+        display: none;
+    
+    }.cd-main-header {
+
+        position: absolute;
+        z-index: 5999;}text .date {
+
+     
+        display: none;
+    
+    }.text { margin-left: 0px !important; position: relative;
+    height: 100%; background: #fff; padding: 21px 10px 71px 10px; border-radius: 0px !important; border: none !important; margin-top:
+    0px !important; min-width: 100% !important; } .sidemenuouter{ display: none;} .sidebarIconToggle { display: none;}}
+   @media only screen
+    and (min-width: 1025px) and (max-width: 1086px){.main { height: 768px; margin: 0 auto; overflow: hidden; position: relative;
+    text-align: center; }#menu-icon { width: 35px; height: 35px; position: fixed; left: 49%;
+
+        top: 216px;} #menu-icon.open { -webkit-transform:
+    rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); top: 238px;left: 48%; }}
+    @media only screen and (min-width: 1200px) and (max-width: 1400px){.text {
+
+        margin-left: 276px;}}
+        @media only screen and (min-width: 1087px) and (max-width: 1299px){.text {
+
+            margin-left: 256px;}}
+        
+    @media only
+    screen and (max-width: 1024px){.main { top: 0px;
+
+        bottom: 0px;height: 800px; margin: 0 auto; overflow: hidden; position: relative; text-align: center;
+    } #menu-icon { width: 35px; height: 35px; position: fixed; left:
+    49%; top: 251px;} #menu-icon.open { -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg);
+    transform: rotate(0deg); top: 345px; }} 
+    
+    @media only screen and (min-width: 980px) and (max-width: 1024px){#menu-icon.open { left: 48%;
+
+        top: 239px; } #menu-icon {
+
+            width: 35px;
+            height: 35px;
+            position: fixed;
+            left: 49%;
+            top: 213px;}}
+    
+    @media only screen and (max-width: 980px){ .restart
+    { border-radius: 0px; padding: 6px 13px 6px 13px; background: #000; position: absolute; top: -87px; right: 0px;}  #menu-icon.open { left: 47%;top: 235px; } } 
+    
+    
+    @media only screen and (min-width: 880px)
+    and (max-width: 980px){ #menu-icon { width: 35px; height: 35px;
+    position: fixed; left: 49%;top: 202px; } #menu-icon.open { left: 46%; } }
+    
+    
+    @media only screen and (min-width: 768px) and (max-width:
+    880px){  #menu-icon { width: 35px; height: 35px; position: fixed;
+    left: 49%; top: 210px;} 
+#menu-icon.open { left: 46%; } } 
+    
+    @media only screen and (max-width: 768px){ 
+        .inner {
+     
+            right: 0px;
+     
+        }.header_top h1 {
+
+        margin-bottom: 0px;
+        font-size: 30px;
+        line-height: 32px;
+    
+    }#menu-icon { width: 35px; height: 35px; position: fixed;
+        left: 49%; top: 210px;} #menu-icon.open { left: 46%; }
+    .header_top h1 .datesmall {
+
+        color: #fff;
+        font-size: 22px;
+        text-align: center;
+    
+    }.restart { border-radius: 0px; padding:
+    6px 13px 6px 13px; background: #000; position: absolute; top: -87px; right: 0px;}.day { text-align: left;
+    float: right; color: #333; font-size: 13px; margin-right: 51px; } .openenter { color: #fff; cursor: pointer; width: 42%;}
+    .col-md-4{width: 30% !important;} .col-md-8{width: 72% !important;} .time { text-align: left; float:none; color: #333; font-size:
+    13px; } .day { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px; }.button-container{ top:
+    77px; } #menu-icon { width: 35px; height: 35px; position: fixed;
+    left: 48%; }.col-md-6{width:auto !important;} #menu-icon.open { left: 46%; } }
+    
+    
+    @media only screen and (max-width: 640px){
+        .headerlogo {
+         
+            font-size: 49px;}
+    .restart { border-radius: 0px; padding: 6px 13px 6px 13px; background: #000; position: absolute; top: -87px; right: 0px;}.day
+    { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px; } .col-md-4{width: 28% !important;} .time
+    { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align: left; float: right; color: #333; font-size:
+    13px; margin-right: 51px; } .button-container { top: 77px; } 
+    #menu-icon { width: 35px; height: 35px; position: fixed; left: 49%; } #menu-icon.open { left: 44%; } }
+    
+    @media only screen
+    and (max-width: 480px) {.day { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px; } .col-md-4{width:
+    27% !important;} .time { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align: left; float: right;
+    color: #333; font-size: 13px; margin-right: 51px; } .metro .boxx p {font-size: 11px;} .loaded .ip-logo, .loading .ip-loader { font-size: 400%; } #menu-icon { width: 35px; height: 35px; position: fixed;
+    left: 48%; } #menu-icon.open { left: 43%; }#menu {
+
+        padding: 50px 0 0 0px;
+        width: 100%;
+        position: fixed;
+        bottom: -386px;
+        z-index: 4;
+    
+    } }
+    
+    @media only screen and (max-width: 380px) { .header_top {
+
+        padding:33px;}.notification { left: 60%;}.button {
+            background-color: #fc9204;
+            padding-top: 11px;} .day
+    { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px; } .col-md-4{width: 100% !important;}
+    .time { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align: left; float: right; color: #333;
+    font-size: 13px; margin-right: 51px; }.button { height: 51px; max-width: 236px; }  #menu-icon { width: 35px; height: 35px; position: fixed; left: 48%; } #menu-icon.open { left: 40%; } } 
+    
+    @media
+    only screen and (max-width: 360px) {#menu {
+
+    padding: 50px 0 0 0px;
+    width: 100%;
+    position: fixed;
+    bottom: -380px;
+    z-index: 4;
+
+}.day { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px;
+    } .col-md-4{width: 100% !important;} .time { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align:
+    left; float: right; color: #333; font-size: 13px; margin-right: 0px; } .col-md-6 { padding-right: 0px !important; padding-left:
+    10px !important; }.date > .current::before { background-color: rgba(0, 0, 0, 0.035);content:
+    ' '; height: 32px; width: 32px; border-radius: 50%; position: absolute; left: 1px; top: -4px; } .button { height: 51px; max-width:
+    215px; }  #menu-icon { width: 35px; height: 35px; position: fixed;
+    left: 48%; } .metro .boxx span { color:
+    rgba(255, 255, 255, 0.8); text-transform: uppercase; position: relative !important; left: 0px; bottom: 0px; font-size: 12px
+    } #menu-icon.open { left: 40%; }#menu-icon { width: 35px; height: 35px; position: fixed; top: 220px; }#menu {
+
+        padding: 50px 0 0 0px;
+        width: 100%;
+        position: fixed;
+        bottom: -380px;
+        z-index: 4;
+    
+    }}
+    
+    
+    @media only screen
+    and (max-width: 320px) {.metro .boxx {
+
+        width: 45%;
+        list-style: none;
+        padding: 13px;
+        margin: 3px;}.day { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 51px; } .col-md-4{width:
+    100% !important;} .time { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align: left; float: right;
+    color: #333; font-size: 13px; margin-right: 0px; } .inputs { position: relative; margin: 20px 28px;}.metro .boxx p {font-size: 9px;} .button {
+    height: 47px; max-width: 194px; } #menu-icon { width: 35px; height:
+    35px; position: fixed; left: 48%; } .metro .boxx span { color: rgba(255, 255, 255, 0.8); text-transform: uppercase; position:relative
+    !important; left: 0px; bottom: 0px; font-size: 11px } #menu-icon {
+
+        width: 35px;
+        height: 35px;
+        position: fixed;
+        top: 254px;
+    
+    }#menu {
+
+        padding: 50px 0 0 0px;
+        width: 100%;
+        position: fixed;
+        bottom: -333px;
+        z-index: 4;
+    
+    }#menu-icon.open { left: 40%;top: 248px;
+
+     } }
+    
+    @media only screen and (max-width:280px)
+    {.day { text-align: left; float: right; color: #333; font-size: 13px; margin-right: 0px; } .col-md-4{width: 100% !important;}
+    .time { text-align: left; float:none; color: #333; font-size: 13px; } .day { text-align: left; float: right; color: #333;
+    font-size: 13px; margin-right: 0px; }  #menu-icon { width: 35px;
+    height: 35px; position: fixed; left: 46%; } .metro .boxx span { font-size: 10px } #menu-icon.open { left: 40%; } .inputs {position:
+    relative;margin:20px 28px;}}

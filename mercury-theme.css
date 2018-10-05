@@ -1,0 +1,19 @@
+#default-theme {
+	background-color: #E4DFDF;
+    color: #A09E9E;
+}
+#theme-button {
+	background-color: #E4DFDF;
+    color: #A09E9E;
+	border-left:#999 1px solid;
+}
+#theme-menu {
+	border: #E2DEDE 1px solid;
+}
+.theme-color {
+	background-color:#E6E4E4;
+	color:#A09E9E;
+}
+.theme-color:hover {
+	background-color:#DADADA;
+}

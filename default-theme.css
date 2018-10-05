@@ -1,0 +1,19 @@
+#sidebarMenu {
+	background-color:#555;
+	color:#F0F0F0;
+}
+#theme-button {
+	background-color:#555;
+	color:#F0F0F0;
+	border-left:#999 1px solid;
+}
+#theme-menu {
+	border: #999 1px solid;
+}
+.theme-color {
+	background-color:#999;
+	color:#F0F0F0;
+}
+.theme-color:hover {
+	background-color:#333;
+}

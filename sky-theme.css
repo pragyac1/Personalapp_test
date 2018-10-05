@@ -1,0 +1,24 @@
+#sidebarMenu {
+	background-color:#09f;
+	color:#F0F0F0;
+}
+#theme-button {
+	background-color:#09f;
+	color:#F0F0F0;
+	border-left:#7AC6F9 1px solid;
+}
+#theme-menu {
+	border: #7AC6F9  1px solid;
+}
+.theme-color {
+	background-color: #ADD7F3;
+    color: #FFF;
+}
+.theme-color:hover {
+	background-color:#85CAF9;
+}
+#sidebarMenu { height: 970px;position: absolute;
+	left: 0px;
+	
+	width: 250px; top: 0px; transition: transform 250ms ease-in-out; background: #000;
+		} 
